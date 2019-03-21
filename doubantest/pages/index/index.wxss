@@ -1,0 +1,26 @@
+/**index.wxss**/
+.area_view{
+ display: flex;
+ flex-direction: column;
+ background-color:gainsboro;
+ width: 98%;
+ margin-left: 1%;
+ padding: 10rpx;
+ margin-bottom: 10rpx;
+}
+.tr_id{
+  color: "#333";
+  padding: 10rpx;
+}
+.tr_friend_id{
+  color: "#333";
+  padding: 10rpx;
+ 
+}
+.tr_content{
+  padding: 10rpx;
+}
+.tr_date{
+ padding: 10rpx;
+ color:tan;
+}

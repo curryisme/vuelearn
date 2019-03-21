@@ -1,0 +1,25 @@
+纸飞机测试
+AppID wx677b4ae9ee6d478e
+
+AppSecret 4ab6850a812d2b502203daf46ac399b0
+
+家庭组密码
+gv3DA5yY9a
+
+系统城-温馨提示：
+
+小贴士：光盘经过检测安全无毒，PE中的部分破解软件可能会被个别杀毒软件误报，请放心使用。
+文件名: GHOST_WIN10_X64.iso
+文件大小:4.57 GB
+系统格式:NTFS 
+系统类型：64位
+MD5: 78E401A4EF6468E8FEE44B42617A5D00
+SHA1: 91DD0ADA91FF9FDAC5EA365D84DDE511C40EF5E0
+crc32: 1392480945 
+
+用户一
+root
+hehe123
+用户二
+lzx
+12345678

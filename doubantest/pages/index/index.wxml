@@ -1,0 +1,11 @@
+<!--index.wxml-->
+ <view wx:for="{{chat}}" wx:key="{{key}}">
+<navigator url='../logs/logs?id={{item.tr_id}}' >
+  <view class="area_view">
+    <text class="tr_id">我的id:{{item.tr_me_id}}</text>
+    <text class="tr_friend_id">朋友id:{{item.tr_friend_id}}</text>
+    <view class="tr_content">内容:{{item.tr_content}}</view>
+    <text class="tr_date">时间:{{item.tr_date}}</text>
+  </view>
+</navigator>
+</view>   
